@@ -1,4 +1,5 @@
 # Simple Interactive Velocity Analysis
-[![Youtube Image](https://github.com/GhozyElFatih/Simple-Interactive-Velocity-Analysis/assets/85453675/31c60b10-d3c4-4dd5-b3c4-3c1c86e8b9bd)](https://youtu.be/548tlz4TCuw?si=lULkOmZCLwpmTuZt)
+[![Untitled](https://github.com/GhozyElFatih/Simple-Interactive-Velocity-Analysis/assets/85453675/fdfcb28d-bd2d-4822-abb1-757d414cd3d4)
+](https://youtu.be/548tlz4TCuw?si=BGQBnEjvHmK2UQPz)
 
 Simple visualization of seismic velocity analysis with python
